@@ -89,11 +89,10 @@ I take ownership of the whole thing — frontend, backend, database, deployment.
 
 <br/>
 
-**Performance & Real-Time**
+**Performance**
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B35?style=for-the-badge&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 <br/>
 
