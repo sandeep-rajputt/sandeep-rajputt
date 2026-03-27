@@ -115,7 +115,7 @@ I take ownership of the whole thing — frontend, backend, database, deployment.
 | **Frontend** | HTML · CSS · JavaScript · TypeScript · Tailwind CSS · React · React Router · Redux Toolkit · RTK Query · React Hook Form · Zod · Axios · Next.js · NextAuth |
 | **Backend** | Node.js · Express.js · CORS · JWT Auth · RBAC · Caching · Rate Limiting |
 | **Databases** | MongoDB · Mongoose · PostgreSQL |
-| **Performance** | Redis · Redis Pub/Sub · BullMQ · Socket.io |
+| **Performance** | Redis · Redis Pub/Sub · BullMQ |
 | **AI & APIs** | Gemini API |
 | **Tooling** | Git · GitHub · Postman · Razorpay |
 
